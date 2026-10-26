@@ -1,0 +1,20 @@
+{
+  "curfew": {
+    "start": "00:30",
+    "end": "07:30"
+  },
+  "self_names": [
+    "鱼鱼🐋",
+    "鱼鱼",
+    "蓝鲸",
+    "大肥鱼",
+    "鱼娘",
+    "鲸鱼娘"
+  ],
+  "deepseek": {
+    "apiKey": ""
+  },
+  "panel": {
+    "allowDshKey": false
+  }
+}

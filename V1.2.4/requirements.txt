@@ -1,0 +1,6 @@
+# 运行需要的第三方库（其余都是标准库）
+# 安装：python -m pip install -r requirements.txt
+pillow          # 截图、拼图、GIF 帧、图片校验
+requests        # 下载表情直链 / 调用视觉模型
+zstandard       # 解微信 4.x 里被压成 zstd 的文本内容
+pycryptodome    # 解微信 4.x 的 .dat 图片（import Crypto.Cipher.AES）
